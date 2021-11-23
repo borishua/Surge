@@ -1,0 +1,12 @@
+# https://github.com/DivineEngine/Profiles/blob/master/Surge/Ruleset/Extra/Apple/SoftwareUpdate.list
+
+# > iOS and iPadOS updates
+DOMAIN,appldnld.apple.com
+DOMAIN,ns.itunes.apple.com
+# > iOS, iPadOS, tvOS, and macOS updates
+DOMAIN,gg.apple.com
+DOMAIN,gdmf.apple.com // Software update catalog
+DOMAIN,mesu.apple.com // Hosts software update catalogs
+DOMAIN,updates.cdn-apple.com // Software update downloads
+DOMAIN,updates-http.cdn-apple.com // Software update downloads
+DOMAIN,xp.apple.com
