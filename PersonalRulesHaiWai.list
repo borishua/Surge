@@ -1,0 +1,46 @@
+# 海外服务分流规则，自用补充调整
+
+# Widgy App
+DOMAIN,widgy.fra1.digitaloceanspaces.com
+DOMAIN-SUFFIX,widgy.icu
+# jsdelivr
+DOMAIN-SUFFIX,jsdelivr.com
+# 播客
+DOMAIN-SUFFIX,acast.com
+DOMAIN-SUFFIX,tunein.com
+DOMAIN-SUFFIX,radiotime.com
+DOMAIN-SUFFIX,cercube.com
+# 简书APP
+DOMAIN-SUFFIX,jianshuapi.com
+# 影视相关
+DOMAIN-SUFFIX,nfxhd.com
+DOMAIN-SUFFIX,pornlulu.com
+DOMAIN-SUFFIX,cqscmy.net
+DOMAIN-SUFFIX,lbbf9.com
+DOMAIN-SUFFIX,ddyunbo.com
+DOMAIN-SUFFIX,51daao.com
+DOMAIN-SUFFIX,hhmm0.com
+# 其他
+DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,xn--5oq250jekh.com
+# 机场
+DOMAIN-SUFFIX,easyintnet.com
+DOMAIN-SUFFIX,ibuu.cc
+DOMAIN-SUFFIX,haotas.com
+DOMAIN-SUFFIX,qcrane-1.xyz
+# 解析服务商
+DOMAIN-SUFFIX,nslookup.io
+# Cydia Source
+DOMAIN-SUFFIX,chariz.com
+DOMAIN-SUFFIX,packix.com
+DOMAIN-SUFFIX,anamy.gay
+DOMAIN-SUFFIX,i.repo.co.kr
+DOMAIN-SUFFIX,limneos.net
+DOMAIN-SUFFIX,zodttd.com
+DOMAIN-SUFFIX,saurik.com
+DOMAIN-SUFFIX,dynastic.co
+DOMAIN-SUFFIX,sparkdev.me
+DOMAIN-SUFFIX,co.kr
+DOMAIN-SUFFIX,akemi.ai
+DOMAIN-SUFFIX,editornah.top
+DOMAIN-SUFFIX,rejail.ru
