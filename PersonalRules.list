@@ -1,0 +1,92 @@
+# 分流规则，自用补充调整
+
+# 绕过企业证书过期
+DOMAIN,ocsp.apple.com,REJECT
+# YouTube 去底部广告
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
+# 避免迅雷版权问题
+DOMAIN,hub5idx.v6.shub.sandai.net,REJECT
+DOMAIN,hub5emu.v6.shub.sandai.net,REJECT
+DOMAIN,hub5btmain.v6.shub.sandai.net,REJECT
+# 银行
+DOMAIN-SUFFIX,95599.cn,DIRECT
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,bscabank.com,DIRECT
+DOMAIN-SUFFIX,openaboc.cn,DIRECT
+DOMAIN-SUFFIX,openaboc.com,DIRECT
+DOMAIN-SUFFIX,openaboc.com.cn,DIRECT
+# e代驾
+DOMAIN-SUFFIX,edaijia.cn,DIRECT
+DOMAIN-SUFFIX,edaijia.jikedata.com,DIRECT
+# 其他
+DOMAIN-SUFFIX,xdrig.com,DIRECT
+DOMAIN-SUFFIX,cl2009.com,DIRECT
+DOMAIN-SUFFIX,lanzoui.com,DIRECT
+DOMAIN-SUFFIX,baidupan.com,DIRECT
+# 51万年历
+DOMAIN-SUFFIX,51wnl-cq.com,DIRECT
+DOMAIN-SUFFIX,51wnl.com,DIRECT
+# Widgy App
+DOMAIN,widgy.fra1.digitaloceanspaces.com,海外服务
+DOMAIN-SUFFIX,widgy.icu,海外服务
+# Apple
+DOMAIN,metrics.icloud.com,DIRECT
+# jsdelivr
+DOMAIN-SUFFIX,jsdelivr.com,海外服务
+# 播客
+DOMAIN-SUFFIX,acast.com,海外服务
+DOMAIN-SUFFIX,tunein.com,海外服务
+DOMAIN-SUFFIX,radiotime.com,海外服务
+DOMAIN-SUFFIX,cercube.com,海外服务
+# 阿里云盘
+DOMAIN-SUFFIX,alipan.club,DIRECT
+# 简书APP
+DOMAIN-SUFFIX,jianshuapi.com,海外服务
+# 星支付
+DOMAIN-SUFFIX,postar.cn,DIRECT
+DOMAIN-SUFFIX,shxgroup.net,DIRECT
+DOMAIN,app-image-production.oss-accelerate.aliyuncs.com,DIRECT
+# 影视相关
+DOMAIN-SUFFIX,nfxhd.com,海外服务
+DOMAIN-SUFFIX,pornlulu.com,海外服务
+DOMAIN-SUFFIX,cqscmy.net,海外服务
+DOMAIN-SUFFIX,lbbf9.com,海外服务
+DOMAIN-SUFFIX,ddyunbo.com,海外服务
+DOMAIN-SUFFIX,51daao.com,海外服务
+DOMAIN-SUFFIX,hhmm0.com,海外服务
+# 其他
+DOMAIN-SUFFIX,crisp.chat,海外服务
+DOMAIN-SUFFIX,xn--5oq250jekh.com,海外服务
+# 机场
+DOMAIN-SUFFIX,easyintnet.com,海外服务
+DOMAIN-SUFFIX,ibuu.cc,海外服务
+DOMAIN-SUFFIX,haotas.com,海外服务
+DOMAIN-SUFFIX,qcrane-1.xyz,海外服务
+# 定位导航
+USER-AGENT,maps*,DIRECT
+# SimBox
+DOMAIN-SUFFIX,ucloudlink.com,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
+# 360防骚扰升级
+DOMAIN,p.s.360.cn,DIRECT
+# 解析服务商
+DOMAIN-SUFFIX,nslookup.io,海外服务
+# Cydia Source
+DOMAIN-SUFFIX,chariz.com,海外服务
+DOMAIN-SUFFIX,packix.com,海外服务
+DOMAIN-SUFFIX,anamy.gay, 海外服务
+DOMAIN-SUFFIX,i.repo.co.kr,海外服务
+DOMAIN-SUFFIX,limneos.net,海外服务
+DOMAIN-SUFFIX,zodttd.com,海外服务
+DOMAIN-SUFFIX,saurik.com,海外服务
+DOMAIN-SUFFIX,dynastic.co,海外服务
+DOMAIN-SUFFIX,sparkdev.me,海外服务
+DOMAIN-SUFFIX,co.kr,海外服务
+DOMAIN-SUFFIX,akemi.ai,海外服务
+DOMAIN-SUFFIX,editornah.top,海外服务
+DOMAIN-SUFFIX,rejail.ru,海外服务
+# costco开市客
+DOMAIN-SUFFIX,azure.cn,DIRECT
+DOMAIN-SUFFIX,chinacloudapi.cn,DIRECT
+# 奇心老服务器
+DOMAIN-SUFFIX,qxzy.top,REJECT
