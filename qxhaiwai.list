@@ -1,4 +1,4 @@
-#海外服务
+# 海外服务
 
 # > Emby
 DOMAIN-SUFFIX,emby-cf.plusmedia.site,🚀 海外服务
@@ -32,12 +32,6 @@ DOMAIN-SUFFIX,line-apps.com,🚀 海外服务
 DOMAIN-SUFFIX,line-cdn.net,🚀 海外服务
 DOMAIN-SUFFIX,line-scdn.net,🚀 海外服务
 DOMAIN-SUFFIX,nhncorp.jp,🚀 海外服务
-
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com,🚀 海外服务
-DOMAIN-SUFFIX,phprcdn.com,🚀 海外服务
-DOMAIN-SUFFIX,pornhub.com,🚀 海外服务
-DOMAIN-SUFFIX,pornhubpremium.com,🚀 海外服务
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com,🚀 海外服务
@@ -73,7 +67,6 @@ DOMAIN-SUFFIX,afreecatv.com,🚀 海外服务
 DOMAIN-SUFFIX,play.afreecatv.com,🚀 海外服务
 DOMAIN-SUFFIX,popkontv.com,🚀 海外服务
 
-
 #Discord
 DOMAIN-SUFFIX,discord.co,🚀 海外服务
 DOMAIN-SUFFIX,discord.com,🚀 海外服务
@@ -85,69 +78,6 @@ DOMAIN-SUFFIX,discord.new,🚀 海外服务
 DOMAIN-SUFFIX,discordapp.com,🚀 海外服务
 DOMAIN-SUFFIX,discordapp.net,🚀 海外服务
 DOMAIN-SUFFIX,discordapp.page.link,🚀 海外服务
-
-# > Spotify
-DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,🚀 海外服务
-DOMAIN-SUFFIX,byspotify.com,🚀 海外服务
-DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net,🚀 海外服务
-DOMAIN-SUFFIX,pscdn.co,🚀 海外服务
-DOMAIN-SUFFIX,scdn.co,🚀 海外服务
-DOMAIN-SUFFIX,spoti.fi,🚀 海外服务
-DOMAIN-SUFFIX,spotify-com.akamaized.net,🚀 海外服务
-DOMAIN-SUFFIX,spotify-everywhere.com,🚀 海外服务
-DOMAIN-SUFFIX,spotify.com,🚀 海外服务
-DOMAIN-SUFFIX,spotify.design,🚀 海外服务
-DOMAIN-SUFFIX,spotifycdn.com,🚀 海外服务
-DOMAIN-SUFFIX,spotifycdn.net,🚀 海外服务
-DOMAIN-SUFFIX,spotifycharts.com,🚀 海外服务
-DOMAIN-SUFFIX,spotifycodes.com,🚀 海外服务
-DOMAIN-SUFFIX,spotifyforbrands.com,🚀 海外服务
-DOMAIN-SUFFIX,spotifyjobs.com,🚀 海外服务
-DOMAIN-KEYWORD,-spotify-com,🚀 海外服务
-DOMAIN-KEYWORD,spotify.com,🚀 海外服务
-USER-AGENT,*Spotify*,🚀 海外服务
-USER-AGENT,Spotify*,🚀 海外服务
-IP-CIDR,35.186.224.47/32,🚀 海外服务
-
-# > YouTube 
-USER-AGENT,*youtube*,🚀 海外服务
-USER-AGENT,YouTube*,🚀 海外服务
-DOMAIN-KEYWORD,youtube,🚀 海外服务
-DOMAIN,yt3.ggpht.com,🚀 海外服务
-DOMAIN-SUFFIX,googlevideo.com,🚀 海外服务
-DOMAIN-SUFFIX,gvt2.com,🚀 海外服务
-DOMAIN-SUFFIX,youtu.be,🚀 海外服务
-DOMAIN,youtubei.googleapis.com,🚀 海外服务
-DOMAIN-SUFFIX,ytimg.com,🚀 海外服务
-
-#Twitter
-DOMAIN-SUFFIX,ads-twitter.com,🚀 海外服务
-DOMAIN-SUFFIX,periscope.tv,🚀 海外服务
-DOMAIN-SUFFIX,pscp.tv,🚀 海外服务
-DOMAIN-SUFFIX,t.co,🚀 海外服务
-DOMAIN-SUFFIX,tellapart.com,🚀 海外服务
-DOMAIN-SUFFIX,tweetdeck.com,🚀 海外服务
-DOMAIN-SUFFIX,twimg.co,🚀 海外服务
-DOMAIN-SUFFIX,twimg.com,🚀 海外服务
-DOMAIN-SUFFIX,twimg.org,🚀 海外服务
-DOMAIN-SUFFIX,twitpic.com,🚀 海外服务
-DOMAIN-SUFFIX,twitter.com,🚀 海外服务
-DOMAIN-SUFFIX,twitter.jp,🚀 海外服务
-DOMAIN-SUFFIX,twitterinc.com,🚀 海外服务
-DOMAIN-SUFFIX,twitteroauth.com,🚀 海外服务
-DOMAIN-SUFFIX,twitterstat.us,🚀 海外服务
-DOMAIN-SUFFIX,twtrdns.net,🚀 海外服务
-DOMAIN-SUFFIX,twttr.com,🚀 海外服务
-DOMAIN-SUFFIX,vine.co,🚀 海外服务
-DOMAIN-KEYWORD,twitter,🚀 海外服务
-IP-CIDR,104.244.42.0/21,🚀 海外服务
-IP-CIDR,192.133.76.0/22,🚀 海外服务
-IP-CIDR,199.16.156.0/22,🚀 海外服务
-IP-CIDR,199.59.148.0/22,🚀 海外服务
-IP-CIDR,199.96.56.0/21,🚀 海外服务
-IP-CIDR,202.160.128.0/22,🚀 海外服务
-IP-CIDR,209.237.192.0/19,🚀 海外服务
-IP-CIDR,69.195.160.0/19,🚀 海外服务
 
 # > Top blocked sites
 DOMAIN-SUFFIX,2o7.net,🚀 海外服务
