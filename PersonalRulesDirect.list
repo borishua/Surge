@@ -1,0 +1,40 @@
+# Direct分流规则，自用补充调整
+
+# 银行
+DOMAIN-SUFFIX,95599.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bscabank.com
+DOMAIN-SUFFIX,openaboc.cn
+DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,openaboc.com.cn
+# e代驾
+DOMAIN-SUFFIX,edaijia.cn
+DOMAIN-SUFFIX,edaijia.jikedata.com
+# 其他
+DOMAIN-SUFFIX,xdrig.com
+DOMAIN-SUFFIX,cl2009.com
+DOMAIN-SUFFIX,lanzoui.com
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,blued.cn
+DOMAIN,blued.irisdt.cn
+# 51万年历
+DOMAIN-SUFFIX,51wnl-cq.com
+DOMAIN-SUFFIX,51wnl.com
+# Apple
+DOMAIN,metrics.icloud.com
+# 阿里云盘
+DOMAIN-SUFFIX,alipan.club
+# 星支付
+DOMAIN-SUFFIX,postar.cn
+DOMAIN-SUFFIX,shxgroup.net
+DOMAIN,app-image-production.oss-accelerate.aliyuncs.com
+# 定位导航
+USER-AGENT,maps*
+# SimBox
+DOMAIN-SUFFIX,ucloudlink.com
+DOMAIN-SUFFIX,mi.com
+# 360防骚扰升级
+DOMAIN,p.s.360.cn
+# costco开市客
+DOMAIN-SUFFIX,azure.cn
+DOMAIN-SUFFIX,chinacloudapi.cn
