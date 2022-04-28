@@ -10,3 +10,6 @@ DOMAIN,hub5emu.v6.shub.sandai.net
 DOMAIN,hub5btmain.v6.shub.sandai.net
 # 奇心老服务器
 DOMAIN-SUFFIX,qxzy.top
+# HDOBOX 去广告
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
