@@ -1,0 +1,26 @@
+# Emby
+USER-AGENT,Emby*
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.plusmedia.site
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
+DOMAIN-SUFFIX,xeton.dev
+DOMAIN,vip.pornemby.club
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN,vipemby.writerxhome.xyz
+DOMAIN-SUFFIX,writerxhome.xyz
+DOMAIN,emby.flowercloud.yt
+DOMAIN-SUFFIX,misakaf.xyz
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,tv.emby.media
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,tv.emby.neko.re
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
+IP-CIDR,38.94.111.242/32
+IP-CIDR,38.94.111.242/22
