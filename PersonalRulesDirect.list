@@ -38,3 +38,6 @@ DOMAIN,p.s.360.cn
 # costco开市客
 DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,chinacloudapi.cn
+# Adguard
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN,adguard-dns.com
