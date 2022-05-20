@@ -39,5 +39,5 @@ DOMAIN,p.s.360.cn
 DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,chinacloudapi.cn
 # Adguard
-DOMAIN-SUFFIX,adguard-dns.com
-DOMAIN,adguard-dns.com
+#DOMAIN-SUFFIX,adguard-dns.com
+#DOMAIN,adguard-dns.com
