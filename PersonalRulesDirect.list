@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,chinacloudapi.cn
 # Adguard
 #DOMAIN-SUFFIX,adguard-dns.com
 #DOMAIN,adguard-dns.com
+# XiaoMi
+DOMAIN,resolver.msg.xiaomi.net
+DOMAIN,app.chat.xiaomi.net
