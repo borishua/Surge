@@ -64,3 +64,5 @@ DOMAIN-SUFFIX,waaw.to
 # Adguard DNS
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN,adguard-dns.io
+# 阿川ai
+DOMAIN-SUFFIX,achuanai.com
